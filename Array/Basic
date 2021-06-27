@@ -1,0 +1,16 @@
+arrays are objects in java
+one-multi-dimensional jaggered
+int[] arr
+int []arr
+int arr[]
+int arr[] = new int[20]; (declaration+instantation)
+int arr[] = new int[]{ 1,2,3,4,5,6,7,8,9,10 };
+
+ArrayIndexOutOfBoundsException
+
+Default array values
+boolean : false
+int : 0
+double : 0.0
+String : null
+User Defined Type : null
